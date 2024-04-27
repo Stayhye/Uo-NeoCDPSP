@@ -1,4 +1,4 @@
-TARGET = neocd
+TARGET = neocd1
 INCDIR = src src/psp src/zip src/68k src/z80 src/video src/libmad
 
 #ZLIB only works well with O3
